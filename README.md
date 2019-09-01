@@ -6,6 +6,16 @@ This is a place where I gather tools, ideas, frameworks etc for use in web devel
 ### Middleman
 https://middlemanapp.com/
 
+## Terminal
+
+### Excellent tutorial for beginners
+https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a
+
+## Git & GitHub
+
+### Writing on GitHub
+https://guides.github.com/features/mastering-markdown/
+
 ## Documentation
 
 ### GitBook
