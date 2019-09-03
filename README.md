@@ -6,6 +6,17 @@ This is a place where I gather tools, ideas, frameworks etc for use in web devel
 ### Middleman
 https://middlemanapp.com/
 
+## WordPress Plugins & Tips
+
+### WooCommerce Colors
+Allows us to change the add to cart buttons on more themes.
+
+### Homepage Control
+Let's you change the homepage on Storefront WooCommerce theme.
+
+### WooCommerce Product Archive Customizer
+Allows you to change the products displayed in more themes.
+
 ## Terminal
 
 ### Excellent tutorial for beginners
